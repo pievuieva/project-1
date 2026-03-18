@@ -1,0 +1,5 @@
+.DS_Store
+*.orig
+assets/index-extra.txt
+swap-supabase.sh
+supabase/
